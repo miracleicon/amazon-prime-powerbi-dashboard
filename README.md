@@ -1,42 +1,82 @@
-🎬 Power BI Project | Prime Video Dashboard 📊
-Proud to share my latest data visualization project — a fully interactive Prime Video Dashboard built in Power BI, analyzing global content trends on the streaming platform!
+# 📺 Amazon Prime Video Dashboard using Power BI
 
-🔍 Project Objective:
-To analyze and visualize over 9,000+ titles of Prime Video content, including movies and TV shows, using real-world metadata such as genres, release years, ratings, and country distribution.
+Welcome to my Power BI dashboard project on **Amazon Prime Video**! This project analyzes and visualizes the content available on the platform, like 📽 Movies, 📺 TV Shows, and overall 🎯 content insights using clean and interactive visuals.
 
-🔹 Key Features:
-✅ Content Overview:
+---
 
-Total Titles, Ratings, Genres, and Directors from 1920 to 2021.
+## 📁 Project Structure
 
-✅ Genre & Rating Analysis:
+Here's what you’ll find in this repository:
 
-Top-performing genres like Drama, Comedy, and Suspense.
+- 📂 `amazon_prime.csv` – Cleaned dataset with all content metadata.
+- 🖼 `movies_dashboard.png` – Insightful dashboard for Movies 🎬.
+- 🖼 `tv_shows_dashboard.png` – TV Shows focused dashboard 📺.
+- 🖼 `prime_video_overview.png` – High-level platform overview 📊.
 
-Ratings breakdown (13+, 16+, PG-13, etc.) to understand audience targeting.
+---
 
-✅ Content Type Distribution:
+## 🎯 Project Objectives
 
-81% Movies vs. 19% TV Shows — quick snapshot of platform focus.
+- 🔍 Analyze the variety of content on Amazon Prime.
+- 🌍 Explore country-wise and genre-wise distribution.
+- ⏳ Visualize content trends over the years.
+- ⭐ Identify top content, ratings, and durations.
 
-✅ Geographical Reach:
+---
 
-Map of shows by production countries across continents.
+## 🛠️ Tools & Technologies Used
 
-✅ Time Series Trend:
+- 💻 **Power BI** – For creating visually appealing dashboards.
+- 🗃 **CSV / Excel** – For storing and cleaning the dataset.
 
-Number of releases over the years — explosive growth post-2000.
+---
 
-✅ Comparative Insights:
+## 🌟 Key Features
 
-Multiple dashboards for overall, movie-only, and TV-show-only analysis.
+- 🎨 Interactive filtering by Genre, Type, Rating, Country, etc.
+- 🧭 Year-wise trend analysis of content addition.
+- 🧑‍🎤 Frequent actors & directors visualization.
+- 📈 KPIs and insightful charts for data storytelling.
 
-📌 Tools Used: Power BI, DAX, Data Cleaning & Modeling
-📍 Project Type: Self-driven, Data Exploration
-🧠 Skills Applied: Data storytelling, interactive visualization, audience segmentation
+---
 
-This project strengthened my ability to convert complex datasets into clear, meaningful visuals for media and entertainment analytics.
+## 🖼️ Dashboard Snapshots
 
-Let’s connect if you’re into data analytics, Power BI, or entertainment data – I’d love to discuss more!
+### 🎬 Movies Dashboard
+![Movies Dashboard](https://github.com/miracleicon/amazon-prime-powerbi-dashboard/blob/main/Movies.PNG)
 
-#PowerBI #DataAnalytics #PrimeVideo #DashboardDesign #DataVisualization #BusinessIntelligence #StreamingAnalytics #Movies #TVShows #LinkedInProjects
+### 📺 TV Shows Dashboard
+![TV Shows Dashboard](https://github.com/miracleicon/amazon-prime-powerbi-dashboard/blob/main/TvVShows.PNG)
+
+### 📊 Prime Video Overview
+![Prime Video Overview](https://github.com/miracleicon/amazon-prime-powerbi-dashboard/blob/main/Prime%20Video.PNG)
+
+---
+
+## 📚 What I Learned
+
+- 🧹 Data cleaning & transformation.
+- 📐 Data modeling for BI.
+- 📊 Using Power BI visuals like Slicers, Pie Charts, Bar Graphs, and Tables.
+- 🧠 Improved storytelling and decision-making with data.
+
+---
+
+## 🚀 Future Scope
+
+- ⭐ Integrate viewer ratings & reviews.
+- 📶 Add more OTT platforms (like Netflix, Disney+) for comparison.
+- 🌐 Publish the interactive dashboard using Power BI Service.
+
+---
+
+## 🔗 Let's Connect!
+
+If you liked the project or want to collaborate, feel free to reach out:
+
+- 👨‍💼 **LinkedIn:** [Mayank Srivastav](https://www.linkedin.com/in/mayank-srivastav-273a25244)
+
+---
+
+✨ _Thanks for checking out the project!_ ✨  
+🔥 _Drop a ⭐ if you found it useful or inspiring!_
