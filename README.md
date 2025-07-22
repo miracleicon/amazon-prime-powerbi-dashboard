@@ -74,7 +74,7 @@ Here's what you’ll find in this repository:
 
 If you liked the project or want to collaborate, feel free to reach out:
 
-- 👨‍💼 **LinkedIn:** [Mayank Srivastav](https://www.linkedin.com/in/mayank-srivastav-273a25244)
+- 👨‍💼 **LinkedIn:** [Mayank Srivastav](https://www.linkedin.com/in/mayank-srivastav-58749a28b/)
 
 ---
 
